@@ -4,7 +4,7 @@
     "period": { "en": "2025-Present", "tr": "2025-Devam ediyor" },
     "title": { "en": "PhD in Computer Engineering", "tr": "Bilgisayar Mühendisliği Doktora" },
     "organization": { "en": "Dokuz Eylül University", "tr": "Dokuz Eylül Üniversitesi" },
-    "detail": { "en": "English-taught doctoral programme", "tr": "İngilizce doktora programı" }
+    "detail": { "en": "Thesis: Development of Artificial Intelligence Based Intrusion Detection Methods for Resource-Constrained IoT Systems", "tr": "Tez: Kaynak Kısıtlı Nesnelerin İnterneti Sistemleri İçin Yapay Zeka Tabanlı Saldırı Tespit Yöntemlerinin Geliştirilmesi" }
   },
   {
     "type": "academic",
@@ -22,7 +22,7 @@
   },
   {
     "type": "education",
-    "period": { "en": "2022-Nov 2024", "tr": "2022-Kas 2024" },
+    "period": { "en": "2022-2024", "tr": "2022-2024" },
     "title": { "en": "MSc in Computer and Informatics Engineering", "tr": "Bilgisayar ve Bilişim Mühendisliği Yüksek Lisans" },
     "organization": { "en": "Balıkesir University", "tr": "Balıkesir Üniversitesi" },
     "detail": { "en": "Thesis: Detection of ARP Spoofing Using Machine Learning", "tr": "Tez: Makine Öğrenmesi ile Adres Çözümleme Protokolü Sahteciliğinin Tespiti" }
@@ -46,6 +46,6 @@
     "period": { "en": "2015-Sep 2020", "tr": "2015-Eyl 2020" },
     "title": { "en": "BSc in Electrical and Electronics Engineering", "tr": "Elektrik-Elektronik Mühendisliği Lisans" },
     "organization": { "en": "Uludağ University", "tr": "Uludağ Üniversitesi" },
-    "detail": { "en": "Faculty of Engineering", "tr": "Mühendislik Fakültesi" }
+    "detail": { "en": "Thesis: Early Diagnosis of Parkinson's Disease with Machine Learning", "tr": "Tez: Makine Öğrenimi ile Parkinson Hastalığının Erken Teşhisi" }
   }
 ]
