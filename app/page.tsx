@@ -83,9 +83,9 @@ const copy = {
       ["Teaching & Media", "teaching"],
       ["Collaboration", "collaboration"],
     ],
-    eyebrow: "AI SECURITY · EDGE AI · RESEARCH ENGINEERING",
+    eyebrow: "AI  · CYBERSECURITY · RESEARCHER",
     intro:
-      "Building lightweight, explainable and human-supervised AI systems for cybersecurity in resource-constrained IoT and edge environments.",
+      "I transform artificial intelligence, data analytics and software technologies into reliable and practical solutions for academic research and real-world problems.",
     explore: "Explore research",
     contact: "Start a conversation",
     cv: "Download CV",
@@ -97,7 +97,8 @@ const copy = {
     skills: "Technical toolkit",
     journeyTitle: "Experience & education",
     journeyLead:
-      "A path spanning industry engineering, academic research and international mobility.",
+      journeyLead:
+      "A chronological overview of education, academic roles, industry experience and international research activities.",
     all: "All",
     education: "Education",
     academic: "Academic",
@@ -150,9 +151,9 @@ const copy = {
       ["Eğitim & İçerik", "teaching"],
       ["İş Birliği", "collaboration"],
     ],
-    eyebrow: "YAPAY ZEKÂ GÜVENLİĞİ · UÇ YAPAY ZEKÂ · ARAŞTIRMA MÜHENDİSLİĞİ",
+    eyebrow: "YAPAY ZEKÂ · SİBER GÜVENLİK · ARAŞTIRMACI",
     intro:
-      "Kaynakları kısıtlı IoT ve uç ortamlarda siber güvenlik için hafif, açıklanabilir ve insan denetimli yapay zekâ sistemleri geliştiriyorum.",
+      "Yapay zekâ, veri analitiği ve yazılım teknolojilerini akademik araştırmalar ve gerçek dünya problemleri için güvenilir ve uygulanabilir çözümlere dönüştürüyorum.",
     explore: "Araştırmayı incele",
     contact: "İletişime geç",
     cv: "CV'yi indir",
@@ -164,7 +165,8 @@ const copy = {
     skills: "Teknik yetkinlikler",
     journeyTitle: "Deneyim ve eğitim",
     journeyLead:
-      "Sektör mühendisliği, akademik araştırma ve uluslararası hareketliliği birleştiren bir yolculuk.",
+      journeyLead: 
+      "Eğitim, akademik görevler, sektör deneyimi ve uluslararası araştırma çalışmalarının kronolojik özeti.",
     all: "Tümü",
     education: "Eğitim",
     academic: "Akademik",
