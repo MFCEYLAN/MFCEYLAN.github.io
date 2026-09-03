@@ -1,0 +1,85 @@
+[
+  {
+    "title": "AI Agent-Assisted Lightweight Intrusion Detection for IoT Devices",
+    "authors": ["Doğancan Karakoç", "Gökhan Dalkılıç", "Mustafa Furkan Ceylan"],
+    "year": 2026,
+    "venue": "2026 8th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA)",
+    "type": "conference",
+    "doi": "10.1109/ICHORA69329.2026.11537202",
+    "selected": true
+  },
+  {
+    "title": "Stage Classification of Alzheimer's Disease MRI Data via Deep Neural Network Architectures",
+    "authors": ["Aslıhan Güven", "Abdurrahim Hüseyin Ezirmik", "Mustafa Furkan Ceylan", "Fatih Aydın"],
+    "year": 2026,
+    "venue": "Balıkesir Journal of Engineering Sciences and Research, 8(1), 93-103",
+    "type": "journal",
+    "doi": "10.46387/bjesr.1869200",
+    "selected": true
+  },
+  {
+    "title": "Temporal Convolutional Networks for Electrical Power Forecasting in Micro Gas Turbine",
+    "authors": ["Furkan Enes Dağlı", "Mustafa Furkan Ceylan", "Fatih Aydın"],
+    "year": 2026,
+    "venue": "2026 34th Signal Processing and Communications Applications Conference (SIU)",
+    "type": "conference",
+    "doi": "10.1109/SIU71813.2026.11637035",
+    "selected": false
+  },
+  {
+    "title": "Comparative Evaluation of Cloud-Edge Security Architectures for DDoS Detection",
+    "authors": ["Mustafa Furkan Ceylan", "Gökhan Dalkılıç", "Mehmet Hilal Özcanhan"],
+    "year": 2025,
+    "venue": "2025 18th International Conference on Information Security and Cryptology (ISCTürkiye), 122-127",
+    "type": "conference",
+    "doi": "10.1109/ISCTrkiye68593.2025.11224857",
+    "selected": true
+  },
+  {
+    "title": "DDoS Detection in Network Traffic Using LightGBM: A Study on the CICIDS2018 Dataset",
+    "authors": ["Mustafa Furkan Ceylan", "Selçuk Kavut", "Faruk Karadeniz"],
+    "year": 2025,
+    "venue": "9th International Symposium on Innovative Approaches in Smart Technologies (ISAS)",
+    "type": "conference",
+    "doi": "10.1109/ISAS66241.2025.11101816",
+    "selected": true
+  },
+  {
+    "title": "Penetration Testing: A Review of Standards, Processes and Deception Techniques",
+    "titleTr": "Sızma Denemeleri: Ölçünler, Süreçler ve Kandırma Teknikleri Üzerine Bir İnceleme",
+    "authors": ["Mustafa Furkan Ceylan", "Selçuk Kavut"],
+    "year": 2025,
+    "venue": "Journal of Computer Science and Engineering, 18(1), 64-85",
+    "type": "journal",
+    "doi": "10.54525/bbmd.1652127",
+    "selected": true
+  },
+  {
+    "title": "Software Unit Test Automation with LLM-Based Generative AI: Evaluating Test Quality through Code Coverage and Edge-Case Analysis",
+    "authors": ["Sevdanur Genç", "Mustafa Furkan Ceylan", "Ayhan İstanbullu"],
+    "year": 2025,
+    "venue": "10th International Conference on Computer Science and Engineering (UBMK 2025)",
+    "type": "conference",
+    "doi": "10.1109/UBMK67458.2025.11206953",
+    "selected": false
+  },
+  {
+    "title": "The Role of Big Data in Pandemic Prediction and Management",
+    "authors": ["Sevdanur Genç", "Mustafa Furkan Ceylan"],
+    "year": 2025,
+    "venue": "Health & Science 2025-IV, Efe Akademi",
+    "type": "book-chapter",
+    "doi": "",
+    "isbn": "978-625-392-797-4",
+    "selected": false
+  },
+  {
+    "title": "Artificial Intelligence Applications for Fish Age Estimation and Sustainable Fisheries Management",
+    "authors": ["Mustafa Furkan Ceylan"],
+    "year": 2025,
+    "venue": "International Balkan Agriculture Congress (IBAC 2025)",
+    "type": "presentation",
+    "doi": "",
+    "selected": false
+  }
+]

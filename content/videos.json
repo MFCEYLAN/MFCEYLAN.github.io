@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7A3GPfql1a4",
+    "title": {
+      "en": "How to Find Reliable Academic Sources: Web of Science",
+      "tr": "Yanlış Kaynak Tüm Tezini Çöpe Atabilir! Doğru Akademik Kaynak Nasıl Bulunur?"
+    },
+    "category": { "en": "Academic Research", "tr": "Akademik Araştırma" }
+  },
+  {
+    "id": "oeVLipAWYsk",
+    "title": {
+      "en": "AI Problem Types: Regression, Classification and Experimental Design",
+      "tr": "Yapay Zekâ Problem Türleri: Regresyon, Sınıflandırma ve Deney Tasarımı"
+    },
+    "category": { "en": "Artificial Intelligence", "tr": "Yapay Zekâ" }
+  },
+  {
+    "id": "We7zNj3i3XA",
+    "title": {
+      "en": "Before Training Any Model, Understand Your Data!",
+      "tr": "Herhangi Bir Modeli Eğitmeden Önce Verinizi Anlayın!"
+    },
+    "category": { "en": "Data Analysis", "tr": "Veri Analizi" }
+  }
+]

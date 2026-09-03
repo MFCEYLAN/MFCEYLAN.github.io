@@ -1,0 +1,33 @@
+{
+  "name": "Mustafa Furkan Ceylan",
+  "role": {
+    "en": "Researcher in AI Security, Edge AI & IoT Cybersecurity",
+    "tr": "Yapay Zekâ Güvenliği, Uç Yapay Zekâ ve IoT Siber Güvenliği Araştırmacısı"
+  },
+  "availability": {
+    "en": "Open to international research collaborations, selected AI projects, technical training and interdisciplinary work.",
+    "tr": "Uluslararası araştırma iş birliklerine, seçili yapay zekâ projelerine, teknik eğitimlere ve disiplinler arası çalışmalara açık."
+  },
+  "about": {
+    "en": [
+      "I am a researcher working at the intersection of artificial intelligence, cybersecurity and edge computing. My doctoral research focuses on AI-based intrusion detection for resource-constrained IoT environments, with particular interests in lightweight models, explainability and human-supervised security systems.",
+      "I am a Research Assistant at Balıkesir University and a PhD researcher in Computer Engineering at Dokuz Eylül University. Before academia, I worked for nearly three years in software test automation at NETAŞ. I welcome research collaborations, selected AI projects, technical training and interdisciplinary work."
+    ],
+    "tr": [
+      "Yapay zekâ, siber güvenlik ve uç bilişim alanlarının kesişiminde çalışan bir araştırmacıyım. Doktora araştırmam; kaynakları kısıtlı IoT ortamlarında yapay zekâ tabanlı saldırı tespiti, hafif modeller, açıklanabilirlik ve insan denetimli güvenlik sistemlerine odaklanmaktadır.",
+      "Balıkesir Üniversitesinde Araştırma Görevlisi, Dokuz Eylül Üniversitesi Bilgisayar Mühendisliği programında doktora araştırmacısıyım. Akademi öncesinde NETAŞ'ta yaklaşık üç yıl yazılım test otomasyonu alanında çalıştım. Araştırma iş birliklerine, seçili yapay zekâ projelerine, teknik eğitimlere ve disiplinler arası çalışmalara açığım."
+    ]
+  },
+  "links": [
+    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=JmfYJlIAAAAJ&hl=en", "kind": "scholar" },
+    { "label": "ORCID", "url": "https://orcid.org/0009-0005-5609-395X", "kind": "orcid" },
+    { "label": "GitHub", "url": "https://github.com/MFCEYLAN", "kind": "github" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/mustafafurkanceylan/", "kind": "linkedin" },
+    { "label": "YouTube", "url": "https://www.youtube.com/@mustafafurkanceylan/featured", "kind": "youtube" },
+    { "label": "ResearchGate", "url": "https://www.researchgate.net/profile/Mustafa-Furkan-Ceylan/research", "kind": "researchgate" }
+  ],
+  "memberships": [
+    { "name": "IEEE", "since": "2025" },
+    { "name": "IEEE Computer Society", "since": "2026" }
+  ]
+}

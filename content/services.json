@@ -1,0 +1,30 @@
+[
+  {
+    "title": { "en": "AI Project Collaboration", "tr": "Yapay Zekâ Proje İş Birliği" },
+    "description": { "en": "Feasibility assessment, problem framing, method selection and technical direction for AI initiatives.", "tr": "Yapay zekâ çalışmaları için uygulanabilirlik, problem tanımı, yöntem seçimi ve teknik yönlendirme." }
+  },
+  {
+    "title": { "en": "AI Model Development & Evaluation", "tr": "Yapay Zekâ Model Geliştirme ve Değerlendirme" },
+    "description": { "en": "Development and rigorous evaluation of machine-learning and deep-learning models.", "tr": "Makine öğrenmesi ve derin öğrenme modellerinin geliştirilmesi ve güvenilir biçimde değerlendirilmesi." }
+  },
+  {
+    "title": { "en": "Data Analysis & Predictive Modeling", "tr": "Veri Analizi ve Tahmine Dayalı Modelleme" },
+    "description": { "en": "Exploratory analysis, preprocessing, classification, forecasting and interpretation of results.", "tr": "Keşifsel analiz, veri ön işleme, sınıflandırma, tahmin ve sonuçların yorumlanması." }
+  },
+  {
+    "title": { "en": "Academic Research Support", "tr": "Akademik Araştırma Desteği" },
+    "description": { "en": "Research questions, methodology, experimental design, metrics and technical feedback within clear ethical boundaries.", "tr": "Açık etik sınırlar içinde araştırma sorusu, metodoloji, deney tasarımı, metrikler ve teknik geribildirim." }
+  },
+  {
+    "title": { "en": "AI Prototypes & Proofs of Concept", "tr": "Yapay Zekâ Prototipleri ve Kavram Kanıtı" },
+    "description": { "en": "Transforming research or organizational ideas into focused, testable initial prototypes.", "tr": "Araştırma veya kurum fikirlerinin odaklı ve test edilebilir başlangıç prototiplerine dönüştürülmesi." }
+  },
+  {
+    "title": { "en": "Technical Training & Workshops", "tr": "Teknik Eğitim ve Atölyeler" },
+    "description": { "en": "Training in AI, data analysis, research methodology and related technical subjects.", "tr": "Yapay zekâ, veri analizi, araştırma metodolojisi ve ilgili teknik konularda eğitimler." }
+  },
+  {
+    "title": { "en": "Research & Development Collaboration", "tr": "Araştırma ve Geliştirme İş Birliği" },
+    "description": { "en": "Collaboration with universities, research centers, companies and interdisciplinary teams.", "tr": "Üniversiteler, araştırma merkezleri, şirketler ve disiplinler arası ekiplerle iş birliği." }
+  }
+]

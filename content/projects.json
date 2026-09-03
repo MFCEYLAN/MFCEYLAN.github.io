@@ -1,0 +1,55 @@
+[
+  {
+    "title": { "en": "AI-Based Multi-Agent Intrusion Detection System", "tr": "Yapay Zekâ Tabanlı Çok-Ajanlı Saldırı Tespit Sistemi" },
+    "funder": "TÜBİTAK 1002",
+    "period": { "en": "Sep 2026-Aug 2027", "tr": "Eyl 2026-Ağu 2027" },
+    "role": { "en": "Scholarship Researcher", "tr": "Bursiyer Araştırmacı" },
+    "status": { "en": "Ongoing", "tr": "Devam ediyor" },
+    "description": {
+      "en": "A funded research project investigating explainable edge intrusion detection and multi-agent support for actionable security analysis in IoT environments.",
+      "tr": "IoT ortamlarında açıklanabilir uç saldırı tespiti ve uygulanabilir güvenlik analizi için çok-ajanlı desteği inceleyen fonlanmış araştırma projesi."
+    },
+    "tags": ["AI Security", "Edge AI", "IoT", "Multi-Agent Systems"],
+    "featured": true
+  },
+  {
+    "title": { "en": "Journey of Beliefs: Interactive Mapping of the History of Religions", "tr": "İnançların Yolculuğu: Dinler Tarihinin İnteraktif Haritalandırılması" },
+    "funder": "TÜBİTAK 3005",
+    "period": { "en": "Dec 2025-2027", "tr": "Ara 2025-2027" },
+    "role": { "en": "Researcher", "tr": "Araştırmacı" },
+    "status": { "en": "Ongoing", "tr": "Devam ediyor" },
+    "description": {
+      "en": "An interdisciplinary project developing thematic, interactive and open-access maps for the visualization of the history of world religions.",
+      "tr": "Dünya dinleri tarihinin görselleştirilmesi için tematik, interaktif ve açık erişimli haritalar geliştiren disiplinler arası proje."
+    },
+    "tags": ["Data Visualization", "Interactive Mapping", "Digital Humanities"],
+    "featured": true
+  },
+  {
+    "title": { "en": "AISC - AI and Security Research Group", "tr": "AISC - Yapay Zekâ ve Güvenlik Araştırma Grubu" },
+    "funder": "Balıkesir University",
+    "period": { "en": "2026-Present", "tr": "2026-Devam ediyor" },
+    "role": { "en": "Founding Researcher", "tr": "Kurucu Araştırmacı" },
+    "status": { "en": "Active", "tr": "Aktif" },
+    "description": {
+      "en": "A growing student research community focused on artificial intelligence, cybersecurity and applied research through weekly training, mentoring and collaborative projects.",
+      "tr": "Haftalık eğitimler, mentorluk ve ortak projeler yoluyla yapay zekâ, siber güvenlik ve uygulamalı araştırmaya odaklanan gelişen bir öğrenci araştırma topluluğu."
+    },
+    "tags": ["Mentoring", "AI", "Cybersecurity", "Student Research"],
+    "url": "https://www.linkedin.com/company/baun-artificial-intelligence-security-research-lab/",
+    "featured": true
+  },
+  {
+    "title": { "en": "Detection of ARP Spoofing Using Machine Learning", "tr": "Makine Öğrenmesi ile ARP Sahteciliğinin Tespiti" },
+    "funder": "MSc Thesis",
+    "period": { "en": "Completed Nov 2024", "tr": "Kas 2024'te tamamlandı" },
+    "role": { "en": "MSc Researcher", "tr": "Yüksek Lisans Araştırmacısı" },
+    "status": { "en": "Completed", "tr": "Tamamlandı" },
+    "description": {
+      "en": "A network-security study using machine-learning and deep-learning models to detect ARP spoofing from packet-derived features in IoT traffic.",
+      "tr": "IoT trafiğinde paketlerden türetilen özelliklerle ARP sahteciliğini tespit etmek için makine öğrenmesi ve derin öğrenme modellerini kullanan ağ güvenliği çalışması."
+    },
+    "tags": ["ARP Spoofing", "Machine Learning", "Network Security", "IoT"],
+    "featured": true
+  }
+]

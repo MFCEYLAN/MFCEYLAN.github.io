@@ -1,0 +1,51 @@
+[
+  {
+    "type": "education",
+    "period": { "en": "2025-Present", "tr": "2025-Devam ediyor" },
+    "title": { "en": "PhD in Computer Engineering", "tr": "Bilgisayar Mühendisliği Doktora" },
+    "organization": { "en": "Dokuz Eylül University", "tr": "Dokuz Eylül Üniversitesi" },
+    "detail": { "en": "English-taught doctoral programme", "tr": "İngilizce doktora programı" }
+  },
+  {
+    "type": "academic",
+    "period": { "en": "Sep 2023-Present", "tr": "Eyl 2023-Devam ediyor" },
+    "title": { "en": "Research Assistant", "tr": "Araştırma Görevlisi" },
+    "organization": { "en": "Balıkesir University", "tr": "Balıkesir Üniversitesi" },
+    "detail": { "en": "Department of Computer Engineering", "tr": "Bilgisayar Mühendisliği Bölümü" }
+  },
+  {
+    "type": "international",
+    "period": { "en": "Jul-Sep 2025", "tr": "Tem-Eyl 2025" },
+    "title": { "en": "Visiting Researcher", "tr": "Misafir Araştırmacı" },
+    "organization": { "en": "Flanders Research Institute for Agriculture, Fisheries and Food (ILVO), Belgium", "tr": "Flaman Tarım, Balıkçılık ve Gıda Araştırma Enstitüsü (ILVO), Belçika" },
+    "detail": { "en": "Animal Sciences - Artificial Intelligence", "tr": "Hayvan Bilimleri - Yapay Zekâ" }
+  },
+  {
+    "type": "education",
+    "period": { "en": "2022-Nov 2024", "tr": "2022-Kas 2024" },
+    "title": { "en": "MSc in Computer and Informatics Engineering", "tr": "Bilgisayar ve Bilişim Mühendisliği Yüksek Lisans" },
+    "organization": { "en": "Balıkesir University", "tr": "Balıkesir Üniversitesi" },
+    "detail": { "en": "Thesis: Detection of ARP Spoofing Using Machine Learning", "tr": "Tez: Makine Öğrenmesi ile Adres Çözümleme Protokolü Sahteciliğinin Tespiti" }
+  },
+  {
+    "type": "international",
+    "period": { "en": "Feb-Jul 2023", "tr": "Şub-Tem 2023" },
+    "title": { "en": "Erasmus+ MSc Study Mobility", "tr": "Erasmus+ Yüksek Lisans Öğrenim Hareketliliği" },
+    "organization": { "en": "Częstochowa University of Technology, Poland", "tr": "Częstochowa Teknoloji Üniversitesi, Polonya" },
+    "detail": { "en": "International study mobility", "tr": "Uluslararası öğrenim hareketliliği" }
+  },
+  {
+    "type": "industry",
+    "period": { "en": "Dec 2020-Sep 2023", "tr": "Ara 2020-Eyl 2023" },
+    "title": { "en": "Senior Software Test Automation Engineer", "tr": "Kıdemli Yazılım Test Otomasyon Geliştirme Mühendisi" },
+    "organization": { "en": "NETAŞ Telecommunications", "tr": "NETAŞ Telekomünikasyon" },
+    "detail": { "en": "Web and mobile test automation, performance testing and mentoring", "tr": "Web ve mobil test otomasyonu, performans testleri ve mentorluk" }
+  },
+  {
+    "type": "education",
+    "period": { "en": "2015-Sep 2020", "tr": "2015-Eyl 2020" },
+    "title": { "en": "BSc in Electrical and Electronics Engineering", "tr": "Elektrik-Elektronik Mühendisliği Lisans" },
+    "organization": { "en": "Uludağ University", "tr": "Uludağ Üniversitesi" },
+    "detail": { "en": "Faculty of Engineering", "tr": "Mühendislik Fakültesi" }
+  }
+]

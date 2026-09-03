@@ -1,0 +1,33 @@
+{
+  "core": [
+    { "name": { "en": "Artificial Intelligence for Cybersecurity", "tr": "Siber Güvenlik için Yapay Zekâ" }, "icon": "shield" },
+    { "name": { "en": "Intrusion Detection Systems", "tr": "Saldırı Tespit Sistemleri" }, "icon": "radar" },
+    { "name": { "en": "Internet of Things", "tr": "Nesnelerin İnterneti" }, "icon": "network" },
+    { "name": { "en": "Edge AI and Lightweight Models", "tr": "Uç Yapay Zekâ ve Hafif Modeller" }, "icon": "cpu" },
+    { "name": { "en": "Explainable Artificial Intelligence", "tr": "Açıklanabilir Yapay Zekâ" }, "icon": "brain" },
+    { "name": { "en": "Network Security", "tr": "Ağ Güvenliği" }, "icon": "lock" },
+    { "name": { "en": "Secure Cyber-Physical Systems", "tr": "Güvenli Siber-Fiziksel Sistemler" }, "icon": "system" }
+  ],
+  "interdisciplinary": [
+    { "name": { "en": "AI for Medicine", "tr": "Tıp için Yapay Zekâ" }, "icon": "medicine" }
+  ],
+  "skills": [
+    "Python",
+    "Java",
+    "Machine Learning",
+    "Deep Learning",
+    "Scikit-learn",
+    "TensorFlow / Keras",
+    "Data Analysis",
+    "Git / GitHub",
+    "Docker",
+    "Linux",
+    "Raspberry Pi",
+    "TensorFlow Lite",
+    "TShark / Wireshark",
+    "Selenium",
+    "Appium",
+    "JMeter",
+    "TestNG"
+  ]
+}

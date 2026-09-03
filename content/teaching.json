@@ -1,0 +1,22 @@
+{
+  "university": [
+    {
+      "name": { "en": "Electronic Circuits Laboratory", "tr": "Elektronik Devreler Laboratuvarı" },
+      "level": { "en": "Undergraduate laboratory teaching", "tr": "Lisans laboratuvar eğitimi" }
+    },
+    {
+      "name": { "en": "Digital Design Laboratory", "tr": "Sayısal Tasarım Laboratuvarı" },
+      "level": { "en": "Undergraduate laboratory teaching", "tr": "Lisans laboratuvar eğitimi" }
+    }
+  ],
+  "mentoring": [
+    { "en": "Weekly research and training meetings", "tr": "Haftalık araştırma ve eğitim toplantıları" },
+    { "en": "AI and cybersecurity education", "tr": "Yapay zekâ ve siber güvenlik eğitimi" },
+    { "en": "Literature review and research methodology", "tr": "Literatür taraması ve araştırma metodolojisi" },
+    { "en": "Student-led research projects", "tr": "Öğrenci liderliğindeki araştırma projeleri" },
+    { "en": "Dataset analysis and AI model development", "tr": "Veri kümesi analizi ve yapay zekâ modeli geliştirme" },
+    { "en": "Academic paper preparation", "tr": "Akademik makale hazırlığı" },
+    { "en": "Conference and journal publication activities", "tr": "Konferans ve dergi yayın faaliyetleri" },
+    { "en": "Mentoring and collaborative learning", "tr": "Mentorluk ve iş birlikli öğrenme" }
+  ]
+}
