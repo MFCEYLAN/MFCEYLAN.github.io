@@ -97,7 +97,6 @@ const copy = {
     skills: "Technical toolkit",
     journeyTitle: "Experience & education",
     journeyLead:
-      journeyLead:
       "A chronological overview of education, academic roles, industry experience and international research activities.",
     all: "All",
     education: "Education",
@@ -164,8 +163,7 @@ const copy = {
     interdisciplinary: "Disiplinler arası çalışmalar",
     skills: "Teknik yetkinlikler",
     journeyTitle: "Deneyim ve eğitim",
-    journeyLead:
-      journeyLead: 
+    journeyLead: 
       "Eğitim, akademik görevler, sektör deneyimi ve uluslararası araştırma çalışmalarının kronolojik özeti.",
     all: "Tümü",
     education: "Eğitim",
