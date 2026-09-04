@@ -361,7 +361,16 @@ export default function Home() {
           <div className="hero-actions">
             <Button asChild size="lg" className="primary-action"><a href="#research">{t.explore}<ChevronRight /></a></Button>
             <Button asChild size="lg" variant="outline" className="secondary-action"><a href={`mailto:${settings.contactEmail}`} onClick={() => track("email_click")}><Mail />{t.contact}</a></Button>
-            <Button asChild size="lg" variant="ghost" className="cv-action"><a href={`/cv/Mustafa_Furkan_Ceylan_CV_${lang.toUpperCase()}.pdf`} onClick={() => track("cv_download")}><Download />{t.cv}</a></Button>
+            <Button asChild size="lg" variant="ghost" className="cv-action">
+             <a
+              href={`/cv/Mustafa_Furkan_Ceylan_CV_${lang.toUpperCase()}.pdf`}
+              download={`Mustafa_Furkan_Ceylan_CV_${lang.toUpperCase()}.pdf`}
+              onClick={() => track("cv_download")}
+            >
+              <Download />
+              {t.cv}
+            </a>
+          </Button>
           </div>
           <div className="social-row" aria-label="Academic and social profiles">
             {profile.links.map((link) => {
